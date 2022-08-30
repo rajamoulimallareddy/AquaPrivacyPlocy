@@ -1,5 +1,5 @@
 Definitions
-1. Aqua Music: The Multipurpose Discord bot and all its versions
+1. Aqua: The Multipurpose Discord bot and all its versions
 
 What data do we collect?
 1. Collected automatically
@@ -15,17 +15,17 @@ Why do we store this information?
 
 1. Discord
 
-Discord data is stored to make sure Aqua Music can operate and allow servers to set their own settings.
+Discord data is stored to make sure Aqua can operate and allow servers to set their own settings.
 
 2. Opt-in
 
 • Any per-server settings you might have changed
-These are only saved if you change the default settings of Aqua Music in your server and are needed to make sure the settings you set persist over your period using Aqua Music within your server.
+These are only saved if you change the default settings of Aqua in your server and are needed to make sure the settings you set persist over your period using Aqua within your server.
 Data deletion
 
 1. Deleted Automatically
 
-The following data is deleted automatically when you remove Aqua Music from you server or stop using the bot.
+The following data is deleted automatically when you remove Aqua from you server or stop using the bot.
 • Discord Server IDs
 • Discord Channel IDs
 • Discord User IDs
