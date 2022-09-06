@@ -39,4 +39,5 @@ With nobody. We do not share or sell any of your information.
 
 2. How can I contact you?
 
-You can contact us by sending an email to rajamoulimallareddy@gmail.com
+You can contact us by sending an email to sravangondi555@gmail.com
+
