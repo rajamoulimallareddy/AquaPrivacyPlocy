@@ -1,5 +1,5 @@
 Definitions
-1. ganna: The Multipurpose Discord bot and all its versions
+1. Gaana: The Multipurpose Discord bot and all its versions
 
 What data do we collect?
 1. Collected automatically
